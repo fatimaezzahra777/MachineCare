@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "dotenv": "^18.0.4",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.10.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon -L src/server.js"
+  },
+  "main": "src/server.js"
+}
