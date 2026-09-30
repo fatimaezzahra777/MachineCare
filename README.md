@@ -244,4 +244,4 @@ Le suivi est réalisé dans Jira (epics, user stories, sub-tasks), relié à Git
 
 ## Auteur
 
-`<Votre nom>`
+`FatimaEzzahra Belissaoui`
